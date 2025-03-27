@@ -1,0 +1,581 @@
+# Translation of Plugins - Cost Calculator Builder - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Cost Calculator Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-19 04:32:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Cost Calculator Builder - Stable (latest release)\n"
+
+#: includes/functions.php:642 templates/admin/components/existing.php:74
+#: templates/admin/components/preview/preview-content.php:181
+#: templates/admin/pages/orders.php:83
+#: templates/admin/single-calc/calculator-list.php:21
+#: templates/frontend/partials/calc-builder.php:273
+msgid "Apply"
+msgstr "Anwenden"
+
+#: includes/classes/CCBCalculators.php:79
+#: includes/classes/CCBCalculators.php:262
+#: includes/classes/CCBCalculators.php:366
+#: includes/classes/CCBCalculators.php:446
+#: includes/classes/CCBCalculators.php:500
+#: includes/classes/CCBCalculators.php:556
+#: includes/classes/CCBCalculators.php:576
+#: includes/classes/CCBCalculators.php:595
+#: includes/classes/CCBCalculators.php:646
+#: includes/classes/CCBCalculators.php:695
+#: includes/classes/CCBCalculators.php:724
+#: includes/classes/CCBCalculators.php:799
+#: includes/classes/CCBCalculators.php:833
+#: includes/classes/CCBCalculators.php:849
+#: includes/classes/CCBCalculators.php:878
+#: includes/classes/CCBCalculators.php:913
+#: includes/classes/CCBCalculators.php:947
+#: includes/classes/CCBCalculators.php:977
+#: includes/classes/CCBCalculators.php:1015
+#: includes/classes/CCBCalculators.php:1068
+#: includes/classes/CCBCalculators.php:1176
+#: includes/classes/CCBCalculators.php:1205
+#: includes/classes/CCBCalculatorTemplates.php:42
+#: includes/classes/CCBCalculatorTemplates.php:99
+#: includes/classes/CCBCalculatorTemplates.php:129
+#: includes/classes/CCBCalculatorTemplates.php:161
+#: includes/classes/CCBCalculatorTemplates.php:201
+#: includes/classes/CCBCalculatorTemplates.php:230
+#: includes/classes/CCBCategory.php:11 includes/classes/CCBCategory.php:56
+#: includes/classes/CCBCategory.php:82 includes/classes/CCBCategory.php:103
+#: includes/classes/CCBDiscountController.php:14
+#: includes/classes/CCBDiscountController.php:133
+#: includes/classes/CCBDiscountController.php:262
+#: includes/classes/CCBDiscountController.php:323
+#: includes/classes/CCBDiscountController.php:384
+#: includes/classes/CCBDiscountController.php:413
+#: includes/classes/CCBEmbedCalculator.php:10
+#: includes/classes/CCBEmbedCalculator.php:49
+#: includes/classes/CCBEmbedCalculator.php:94
+#: includes/classes/CCBExportImport.php:19
+#: includes/classes/CCBExportImport.php:52
+#: includes/classes/CCBExportImport.php:68
+msgid "You are not allowed to run this action"
+msgstr "Du hast keine Berechtigung, diese Aktion durchzuführen"
+
+#: templates/admin/pages/go-pro.php:262
+msgid "Tested up to:"
+msgstr "Getestet bis:"
+
+#: templates/admin/pages/go-pro.php:254
+msgid "Wordpress Version:"
+msgstr "WordPress-Version:"
+
+#: templates/admin/pages/go-pro.php:246
+msgid "Last Update:"
+msgstr "Zuletzt aktualisiert:"
+
+#: templates/admin/pages/go-pro.php:240
+msgid "View Changelog"
+msgstr "Änderungsprotokoll anzeigen"
+
+#: templates/admin/pages/go-pro.php:235
+msgid "Version:"
+msgstr "Version:"
+
+#: templates/admin/pages/go-pro.php:226
+msgid "1 year"
+msgstr "1 Jahr"
+
+#: templates/admin/pages/go-pro.php:214
+msgid "Get now"
+msgstr "Jetzt holen"
+
+#: templates/admin/pages/go-pro.php:186 templates/admin/pages/go-pro.php:193
+msgid "per year"
+msgstr "Jährlich"
+
+#: templates/admin/pages/go-pro.php:157 templates/admin/pages/go-pro.php:226
+msgid "Lifetime"
+msgstr "Lebenslang"
+
+#: templates/admin/pages/go-pro.php:152
+msgid "Annual"
+msgstr "Jährlich"
+
+#: templates/admin/pages/go-pro.php:137
+msgid "Learn more."
+msgstr "Mehr erfahren."
+
+#: templates/admin/pages/go-pro.php:37
+msgid "Developer Oriented"
+msgstr "Entwicklerfreundlich"
+
+#: templates/admin/pages/go-pro.php:227
+msgid "You get <a href=\"%1$s\"><span %2$s>1 year</span> updates and support</a> from the date of purchase. We offer 14 days Money Back Guarantee based on <a href=\"%1$s\">Refund Policy</a>."
+msgstr "Du bekommst <a href=\"%1$s\"><span %2$s>1 Jahr</span> Updates und Support</a> vom Tag des Kaufes. Wir bieten eine 30 Tage Geld zurück Garantie basierend auf <a href=\"%1$s\">Rückgabe Bedingungen</a>."
+
+#: templates/admin/pages/go-pro.php:32
+msgid "Most Popular"
+msgstr "Beliebt"
+
+#: includes/classes/CCBBuilderAdminMenu.php:89
+#: includes/classes/CCBBuilderAdminMenu.php:90 includes/functions.php:550
+#: templates/admin/components/header.php:81
+#: templates/admin/pages/pro-features.php:186
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: templates/admin/single-calc/fields/checkbox-field.php:228
+#: templates/admin/single-calc/fields/drop-down-field.php:148
+#: templates/admin/single-calc/fields/quantity-field.php:188
+#: templates/admin/single-calc/fields/radio-button-field.php:220
+#: templates/admin/single-calc/fields/range-button-field.php:207
+#: templates/admin/single-calc/fields/text-area-field.php:79
+#: templates/admin/single-calc/fields/toggle-field.php:228
+msgid "Required"
+msgstr "Erforderlich"
+
+#: templates/admin/single-calc/fields/checkbox-field.php:238
+#: templates/admin/single-calc/fields/drop-down-field.php:158
+#: templates/admin/single-calc/fields/quantity-field.php:178
+#: templates/admin/single-calc/fields/radio-button-field.php:230
+#: templates/admin/single-calc/fields/range-button-field.php:170
+#: templates/admin/single-calc/fields/toggle-field.php:238
+msgid "Round Value"
+msgstr "Runder Wert"
+
+#: templates/admin/components/existing.php:10
+msgid "Import calculators"
+msgstr "Importrechner"
+
+#: includes/classes/CCBCalculators.php:1141 includes/functions.php:10
+#: includes/functions.php:66
+msgid "empty name"
+msgstr "Leerer Name"
+
+#: includes/classes/CCBFrontController.php:297
+msgid "No selected calculator"
+msgstr "Kein ausgewählter Rechner"
+
+#: includes/classes/CCBCalculators.php:486
+msgid "Calculator deleted successfully"
+msgstr "Der Rechner wurde erfolgreich gelöscht"
+
+#: includes/classes/CCBCalculators.php:319
+msgid "Calculator duplicated successfully"
+msgstr "Der Rechner wurde erfolgreich dupliziert"
+
+#: includes/classes/CCBCalculators.php:71
+msgid "There is no calculator with this id"
+msgstr "Es gibt keinen Rechner mit dieser ID"
+
+#: templates/admin/components/existing.php:57
+msgid "No Calculators yet! Please create new or Import Calculators."
+msgstr "Es sind noch keine Rechner vorhanden! Bitte einen neuen Rechner erstellen oder importieren."
+
+#: templates/admin/components/existing.php:28
+msgid "action"
+msgstr "Aktion"
+
+#: templates/admin/components/existing.php:27
+msgid "calculator name"
+msgstr "Name des Rechners"
+
+#: templates/admin/components/existing.php:23
+msgid "id"
+msgstr "ID"
+
+#: templates/admin/single-calc/modals/condition.php:302
+msgid "Add condition"
+msgstr "Bedingung hinzufügen"
+
+#: templates/admin/single-calc/modals/condition.php:293
+msgid "No Conditions Yet"
+msgstr "Noch keine Bedingungen"
+
+#: templates/admin/single-calc/modals/condition.php:27
+msgid "Select condition"
+msgstr "Bedingung auswählen"
+
+#: templates/admin/single-calc/fields/checkbox-field.php:50
+#: templates/admin/single-calc/fields/checkbox-field.php:79
+#: templates/admin/single-calc/fields/drop-down-field.php:48
+#: templates/admin/single-calc/fields/radio-button-field.php:50
+#: templates/admin/single-calc/fields/toggle-field.php:50
+#: templates/admin/single-calc/fields/toggle-field.php:79
+#: templates/admin/single-calc/modals/condition.php:35
+#: templates/admin/single-calc/modals/condition.php:55
+#: templates/admin/single-calc/modals/condition.php:128
+msgid "Value"
+msgstr "Wert"
+
+#: templates/admin/single-calc/modals/condition.php:6
+msgid "Edit Link"
+msgstr "Link bearbeiten"
+
+#: templates/admin/modal/create-new.php:18
+msgid "Dont save & Create New"
+msgstr "Nicht speichern und neu erstellen"
+
+#: templates/admin/modal/create-new.php:12
+msgid "Save & Create new"
+msgstr "Speichern und neu erstellen"
+
+#: templates/admin/pages/welcome.php:64
+#: templates/admin/single-calc/calculators.php:26
+msgid "Elements"
+msgstr "Elemente"
+
+#: templates/admin/general-settings/currency.php:39
+#: templates/admin/settings/currency.php:36
+#: templates/admin/single-calc/fields/checkbox-field.php:309
+#: templates/admin/single-calc/fields/drop-down-field.php:223
+#: templates/admin/single-calc/fields/quantity-field.php:245
+#: templates/admin/single-calc/fields/radio-button-field.php:286
+#: templates/admin/single-calc/fields/range-button-field.php:237
+#: templates/admin/single-calc/fields/toggle-field.php:294
+#: templates/admin/single-calc/fields/total-field.php:117
+msgid "Right with space"
+msgstr "Rechts mit Leerzeichen"
+
+#: templates/admin/general-settings/currency.php:38
+#: templates/admin/settings/currency.php:35
+#: templates/admin/single-calc/fields/checkbox-field.php:308
+#: templates/admin/single-calc/fields/drop-down-field.php:222
+#: templates/admin/single-calc/fields/quantity-field.php:244
+#: templates/admin/single-calc/fields/radio-button-field.php:285
+#: templates/admin/single-calc/fields/range-button-field.php:236
+#: templates/admin/single-calc/fields/toggle-field.php:293
+#: templates/admin/single-calc/fields/total-field.php:116
+msgid "Left with space"
+msgstr "Links mit Leerzeichen"
+
+#: includes/classes/appearance/CCBAppearanceTypeGenerator.php:97
+#: templates/admin/general-settings/currency.php:37
+#: templates/admin/settings/currency.php:34
+#: templates/admin/single-calc/fields/checkbox-field.php:307
+#: templates/admin/single-calc/fields/drop-down-field.php:221
+#: templates/admin/single-calc/fields/quantity-field.php:243
+#: templates/admin/single-calc/fields/radio-button-field.php:284
+#: templates/admin/single-calc/fields/range-button-field.php:235
+#: templates/admin/single-calc/fields/toggle-field.php:292
+#: templates/admin/single-calc/fields/total-field.php:115
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/classes/appearance/CCBAppearanceTypeGenerator.php:109
+#: templates/admin/general-settings/currency.php:36
+#: templates/admin/settings/currency.php:33
+#: templates/admin/single-calc/fields/checkbox-field.php:306
+#: templates/admin/single-calc/fields/drop-down-field.php:220
+#: templates/admin/single-calc/fields/quantity-field.php:242
+#: templates/admin/single-calc/fields/radio-button-field.php:283
+#: templates/admin/single-calc/fields/range-button-field.php:234
+#: templates/admin/single-calc/fields/toggle-field.php:291
+#: templates/admin/single-calc/fields/total-field.php:114
+msgid "Left"
+msgstr "Links"
+
+#: includes/classes/appearance/CCBAppearanceDataStore.php:27
+#: templates/admin/single-calc/appearances.php:33
+#: templates/admin/single-calc/fields/checkbox-field.php:160
+#: templates/admin/single-calc/fields/radio-button-field.php:152
+#: templates/admin/single-calc/fields/toggle-field.php:160
+#: templates/frontend/partials/calc-builder.php:46
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: includes/classes/appearance/CCBAppearanceDataStore.php:23
+#: templates/admin/single-calc/appearances.php:28
+#: templates/admin/single-calc/fields/checkbox-field.php:159
+#: templates/admin/single-calc/fields/radio-button-field.php:151
+#: templates/admin/single-calc/fields/toggle-field.php:159
+#: templates/frontend/partials/calc-builder.php:41
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: includes/classes/CCBSettingsData.php:386
+#: includes/classes/CCBSettingsData.php:448
+#: templates/admin/general-settings/currency.php:6
+#: templates/admin/settings/currency.php:6
+#: templates/admin/single-calc/modals/payment-settings.php:35
+#: templates/admin/single-calc/modals/payment-settings.php:68
+#: templates/admin/single-calc/modals/payment-settings.php:107
+msgid "Currency"
+msgstr "Währung"
+
+#: includes/classes/CCBSettingsData.php:514
+msgid "Conditions"
+msgstr "Bedingungen"
+
+#: templates/admin/single-calc/fields/line-field.php:47
+msgid "- Select length -"
+msgstr "- Länge auswählen -"
+
+#: templates/admin/single-calc/fields/line-field.php:32
+msgid "- Select Style -"
+msgstr "- Stil auswählen -"
+
+#: templates/admin/single-calc/fields/line-field.php:18
+msgid "- Select Size -"
+msgstr "- Größe auswählen -"
+
+#: templates/admin/single-calc/fields/html-field.php:14
+msgid "HTML5 Code"
+msgstr "HTML5 Code"
+
+#: templates/admin/pages/categories.php:28
+#: templates/admin/single-calc/calculator-list.php:55
+msgid "Create new"
+msgstr "Neu erstellen"
+
+#: templates/admin/components/existing.php:4
+msgid "My Calculators"
+msgstr "Meine Rechner"
+
+#: templates/admin/components/pro-feature.php:6
+msgid "Buy now"
+msgstr "Jetzt kaufen"
+
+#: templates/admin/components/pro-feature.php:5
+msgid "This feature is part of Premium Add-on"
+msgstr "Diese Funktion ist Teil des Premium Add-on"
+
+#: includes/classes/CCBCalculators.php:268
+msgid "Couldn't duplicate calculator, please try again!', 'cost-calculator-builder"
+msgstr "Der Rechner konnte nicht dupliziert werden, bitte versuche es erneut!', 'Kostenrechner Builder"
+
+#: templates/admin/modal/create-new.php:2
+msgid "Do you Want To Save Current Calculator?"
+msgstr "Möchtest du den aktuellen Rechner speichern?"
+
+#: templates/admin/single-calc/modals/condition.php:24
+msgid "Condition"
+msgstr "Bedingung"
+
+#: includes/classes/CCBSettingsData.php:519
+#: templates/admin/single-calc/fields/checkbox-field.php:22
+#: templates/admin/single-calc/fields/drop-down-field.php:19
+#: templates/admin/single-calc/fields/quantity-field.php:19
+#: templates/admin/single-calc/fields/radio-button-field.php:22
+#: templates/admin/single-calc/fields/range-button-field.php:19
+#: templates/admin/single-calc/fields/text-area-field.php:18
+#: templates/admin/single-calc/fields/toggle-field.php:22
+#: templates/admin/single-calc/fields/total-field.php:18
+#: includes/gutenberg-block/build/index.js:64
+#: includes/gutenberg-block/src/edit.js:35
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: templates/admin/pages/orders.php:33 templates/admin/pages/orders.php:101
+#: templates/admin/pages/orders.php:177
+#: templates/frontend/partials/calc-builder.php:9
+#: templates/frontend/partials/calc-builder.php:24
+msgid "Email"
+msgstr "E-Mail"
+
+#: templates/admin/pages/orders.php:35
+#: templates/frontend/partials/calc-builder.php:11
+#: templates/frontend/partials/calc-builder.php:26
+msgid "Message"
+msgstr "Nachricht"
+
+#: templates/frontend/partials/calc-builder.php:10
+msgid "Phone"
+msgstr "Telefon"
+
+#: widgets/CCB_Elementor_Widget.php:98
+msgid "Calculator"
+msgstr "Rechner"
+
+#: widgets/CCB_VC.php:46
+msgid "Content"
+msgstr "Inhalt"
+
+#: widgets/CCB_VC.php:32
+msgid "Keep empty"
+msgstr "Leer lassen"
+
+#: includes/widget.php:16
+msgid "Update Elementor Now"
+msgstr "Jetzt Elementor aktualisieren"
+
+#: widgets/CCB_Elementor_Widget.php:91 widgets/CCB_VC.php:51
+msgid "Select calculator"
+msgstr "Rechner auswählen"
+
+#: widgets/CCB_VC.php:47
+msgid "Place Cost Calculator Builder"
+msgstr "Platzkostenrechner Builder"
+
+#: includes/functions.php:300
+msgid "select"
+msgstr "Auswählen"
+
+#: includes/widget.php:14
+msgid "Elementor CCB Widgets is not working because you are using an old version of Elementor."
+msgstr "Die Elementor CCB Widgets funktioniert nicht, weil du eine alte Version von Elementor verwendest."
+
+#: includes/functions.php:499
+msgid "Create Calculator"
+msgstr "Rechner erzeugen"
+
+#: templates/admin/components/existing.php:47
+#: templates/admin/components/existing.php:71
+#: templates/admin/single-calc/calculator-list.php:17
+#: templates/admin/single-calc/calculator-list.php:94
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#: templates/admin/components/existing.php:42
+#: templates/admin/single-calc/calculator-list.php:102
+#: templates/frontend/partials/calc-builder.php:82
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: templates/admin/components/existing.php:14
+msgid "Export calculators"
+msgstr "Rechner exportieren"
+
+#: templates/admin/components/existing.php:52
+#: templates/admin/components/existing.php:72
+#: templates/admin/pages/orders.php:80
+#: templates/admin/single-calc/calculator-list.php:18
+#: templates/admin/single-calc/calculator-list.php:98
+#: templates/admin/single-calc/modals/condition.php:308
+#: templates/admin/single-calc/modals/payment-settings.php:120
+msgid "Delete"
+msgstr "Löschen"
+
+#: templates/admin/single-calc/modals/condition.php:110
+msgid "Action"
+msgstr "Aktion"
+
+#: templates/admin/modal/create-new.php:25
+#: templates/admin/pages/categories.php:75
+#: templates/admin/single-calc/calculators.php:99
+#: templates/admin/single-calc/calculators.php:111
+#: templates/admin/single-calc/fields/checkbox-field.php:5
+#: templates/admin/single-calc/fields/drop-down-field.php:5
+#: templates/admin/single-calc/fields/html-field.php:5
+#: templates/admin/single-calc/fields/line-field.php:5
+#: templates/admin/single-calc/fields/quantity-field.php:5
+#: templates/admin/single-calc/fields/radio-button-field.php:5
+#: templates/admin/single-calc/fields/range-button-field.php:5
+#: templates/admin/single-calc/fields/text-area-field.php:5
+#: templates/admin/single-calc/fields/toggle-field.php:5
+#: templates/admin/single-calc/fields/total-field.php:5
+#: templates/admin/single-calc/modals/payment-settings.php:125
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: templates/admin/settings/total-summary.php:56
+#: templates/admin/settings/total-summary.php:75
+#: templates/admin/settings/total-summary.php:97
+#: templates/admin/settings/total-summary.php:120
+#: templates/admin/single-calc/tab.php:47
+msgid "Preview"
+msgstr "Vorschau"
+
+#: templates/admin/components/preview/preview-content.php:108
+#: templates/admin/pages/orders.php:23 templates/admin/pages/orders.php:31
+#: templates/admin/single-calc/fields/checkbox-field.php:32
+#: templates/admin/single-calc/fields/drop-down-field.php:29
+#: templates/admin/single-calc/fields/quantity-field.php:30
+#: templates/admin/single-calc/fields/radio-button-field.php:32
+#: templates/admin/single-calc/fields/range-button-field.php:28
+#: templates/admin/single-calc/fields/text-area-field.php:28
+#: templates/admin/single-calc/fields/toggle-field.php:32
+#: templates/frontend/partials/calc-builder.php:8
+#: templates/frontend/partials/calc-builder.php:14
+#: templates/frontend/partials/calc-builder.php:22
+#: templates/frontend/partials/calc-builder.php:185
+msgid "Name"
+msgstr "Name"
+
+#: includes/classes/CCBBuilderAdminMenu.php:23
+#: includes/classes/CCBBuilderAdminMenu.php:24 includes/functions.php:464
+#: templates/admin/components/header.php:51
+#: templates/admin/pages/go-pro.php:128
+#: templates/admin/pages/pro-features.php:165
+msgid "Cost Calculator"
+msgstr "Kostenrechner"
+
+#: templates/admin/pages/orders.php:140
+msgid "Stripe"
+msgstr "Streifen"
+
+#: widgets/CCB_VC.php:39
+msgid "No calculator was found"
+msgstr "Es konnte kein Rechner gefunden werden"
+
+#: includes/init.php:139
+msgid "No %s found in Trash."
+msgstr "Keine %s im Papierkorb gefunden."
+
+#: includes/init.php:138
+msgid "No %s found."
+msgstr "Keine %s gefunden."
+
+#: includes/init.php:137
+msgid "Parent %s:"
+msgstr "Vorläufer %s:"
+
+#: includes/init.php:136
+msgid "Search %s"
+msgstr "%s suchen"
+
+#: includes/init.php:134
+msgid "View %s"
+msgstr "%s anzeigen"
+
+#: includes/init.php:133
+msgid "Edit %s"
+msgstr "%s bearbeiten"
+
+#: includes/init.php:132
+msgid "New %s"
+msgstr "Neuer %s"
+
+#: includes/init.php:131
+msgid "Add New %s"
+msgstr "Neuen %s hinzufügen"
+
+#: includes/init.php:130 includes/init.php:135
+msgctxt "Admin bar "
+msgid "%s"
+msgstr "%s"
+
+#: includes/init.php:128
+msgctxt "post type singular name"
+msgid "Calc"
+msgstr "Rechner"
+
+#. Author URI of the plugin
+#: cost-calculator-builder.php
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#. Author of the plugin
+#: cost-calculator-builder.php
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#. Plugin URI of the plugin
+#: cost-calculator-builder.php
+msgid "https://wordpress.org/plugins/cost-calculator-builder/"
+msgstr "https://wordpress.org/plugins/cost-calculator-builder/"
+
+#. Plugin Name of the plugin
+#: cost-calculator-builder.php widgets/CCB_Elementor_Widget.php:44
+#: widgets/CCB_VC.php:44 includes/gutenberg-block/build/index.js:90
+#: includes/gutenberg-block/src/edit.js:53
+msgid "Cost Calculator Builder"
+msgstr "Kostenrechner Builder"
+
+#. Description of the plugin
+#: cost-calculator-builder.php
+msgid "WP Cost Calculator helps you to build any type of estimation forms on a few easy steps. The plugin offers its own calculation builder."
+msgstr "Mit dem WP Cost Calculator kannst du Schätzungsformulare in wenigen einfachen Schritten selbst erstellen. Das Plugin bietet einen eigenen Rechen-Builder."
