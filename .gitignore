@@ -1,0 +1,47 @@
+# WordPress core
+/wp-config.php
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/advanced-cache.php
+/wp-content/backup-db/
+/wp-content/backups/
+/wp-content/upgrade/
+/wp-content/blogs.dir/
+/wp-content/updraft/
+
+# Themes and plugins (vendors)
+/wp-content/themes/*/node_modules/
+/wp-content/plugins/*/node_modules/
+/wp-content/themes/*/vendor/
+/wp-content/plugins/*/vendor/
+
+# Dependency directories
+/node_modules/
+/vendor/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Environment files
+.env
+*.env
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Composer
+/composer.lock
