@@ -44,4 +44,5 @@ ehthumbs.db
 Thumbs.db
 
 # Composer
-/composer.lock
+/composer.lock/wp-config.php
+/wp-content/uploads/
